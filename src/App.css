@@ -10,6 +10,12 @@
   min-height:400px;
 }
 
+.footer{
+  background-color: #8d8d8d;
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+}
+
 .jumbotron {
   padding:70px 30px 70px 30px;
   margin:0px auto;
