@@ -37,3 +37,8 @@ address{
   color: #ffffff;
   border-color: #ffffff;
 }
+
+.btn-outline-secondary {
+  color: #5a4646;
+  border-color: #000000;
+}
